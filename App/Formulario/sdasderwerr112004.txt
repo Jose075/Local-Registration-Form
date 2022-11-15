@@ -1,0 +1,23 @@
+Nombre:sdasd
+Apellido:erwerr
+Documento de identidad:Cedula
+Correo Electronico:fbdfgfg@Outlook.com
+Numero de Documento de Identidad:944-6841651-5
+Fecha de Nacimiento:1/1/2004
+Contraseña Registro:qweqwe
+Estado Civil:Soltero
+Sexo:Masculino
+Nacionalidad:Dominicana
+Tipo de Solicitud:Extranjero
+Area Academica:Tecnología en Redes de Información
+Tanda de Estudios:Vespertina
+Periodo de Ingreso:Mayo-Agosto 2020
+Direccion:ddsadsad
+Provincia:Barahona
+Municipios:Cabral
+Sector:wtrtetr
+Trabaja Actualmente?:Si trabaja
+Cómo Costeará Sus Estudios?::Recursos Propios
+Alguien Depende Económicamente De Ústed?:No
+Ingreso Familiar Mensual Asciende A:0 - 15,000
+¿Usaras el transporte de la institución?No

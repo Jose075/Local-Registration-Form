@@ -1,0 +1,5 @@
+Nombre:jose
+Apellido:perez
+Nombre de Usuario:jose789
+Contraseña:123456789
+archivo:sdassccac322000

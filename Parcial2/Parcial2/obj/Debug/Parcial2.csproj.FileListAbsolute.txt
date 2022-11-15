@@ -1,0 +1,14 @@
+C:\Users\Paracleto Tech\Documents\Parcial2\Parcial2\bin\Debug\Parcial2.exe.config
+C:\Users\Paracleto Tech\Documents\Parcial2\Parcial2\bin\Debug\Parcial2.exe
+C:\Users\Paracleto Tech\Documents\Parcial2\Parcial2\bin\Debug\Parcial2.pdb
+C:\Users\Paracleto Tech\Documents\Parcial2\Parcial2\obj\Debug\Parcial2.csprojAssemblyReference.cache
+C:\Users\Paracleto Tech\Documents\Parcial2\Parcial2\obj\Debug\Parcial2.Form1.resources
+C:\Users\Paracleto Tech\Documents\Parcial2\Parcial2\obj\Debug\Parcial2.Form2.resources
+C:\Users\Paracleto Tech\Documents\Parcial2\Parcial2\obj\Debug\Parcial2.Properties.Resources.resources
+C:\Users\Paracleto Tech\Documents\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.GenerateResource.cache
+C:\Users\Paracleto Tech\Documents\Parcial2\Parcial2\obj\Debug\Parcial2.exe
+C:\Users\Paracleto Tech\Documents\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
+C:\Users\Paracleto Tech\Documents\Parcial2\Parcial2\obj\Debug\Parcial2.Form3.resources
+C:\Users\Paracleto Tech\Documents\Parcial2\Parcial2\obj\Debug\Parcial2.Form4.resources
+C:\Users\Paracleto Tech\Documents\Parcial2\Parcial2\obj\Debug\Parcial2.Form5.resources
+C:\Users\Paracleto Tech\Documents\Parcial2\Parcial2\obj\Debug\Parcial2.Form6.resources

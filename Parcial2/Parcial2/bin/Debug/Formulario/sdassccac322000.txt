@@ -1,0 +1,23 @@
+Nombre:sdass
+Apellido:ccac
+Documento de identidad:Cedula
+Correo Electronico:adasdsdaa@Outlook.com
+Numero de Documento de Identidad:186-1616165-1
+Fecha de Nacimiento:3/2/2000
+Contraseña Registro:123456789
+Estado Civil:Casado
+Sexo:Femenino
+Nacionalidad:Dominicana
+Tipo de Solicitud:Extranjero
+Area Academica:Tecnología en Manufactura Automatizada
+Tanda de Estudios:Diurna
+Periodo de Ingreso:Enero-Abril 2020
+Direccion:dfsdfdf dsfer
+Provincia:Baoruco
+Municipios:Galván
+Sector:asdasdsad
+Trabaja Actualmente?:Si trabaja
+Cómo Costeará Sus Estudios?::Recursos Propios
+Alguien Depende Económicamente De Ústed?:No
+Ingreso Familiar Mensual Asciende A:0 - 15,000
+¿Usaras el transporte de la institución?No
